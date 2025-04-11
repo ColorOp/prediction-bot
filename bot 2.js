@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const token = 'YOUR_BOT_TOKEN'; // Replace with your token
+const token = 'YOUR_BOT_TOKEN'; // 7802919272:AAFeYFSbtMl7wtgEW4MiqZdzs11eF-S7E8M
 const bot = new TelegramBot(token, { polling: true });
 
 const colors = ['Red', 'Green', 'Violet'];
